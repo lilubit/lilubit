@@ -5,7 +5,7 @@
 <p><img align="right" width="250px" src="https://github.com/lilubit/lilubit/blob/main/images/image1.jpg" /></p>
 -->
 
-**I'm [Lu Li (李璐)](https://github.com/lilubit)! I'm a postgraduate student at Beijing Institute of Technology (BIT).**
+**I'm [Lu Li (李璐)](https://github.com/lilubit)! A postgraduate student at Beijing Institute of Technology (BIT).**
 
 [![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liluccnu@163.com)
 
