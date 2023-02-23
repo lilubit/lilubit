@@ -1,7 +1,7 @@
 
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<img align="right" width="250px" src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif" />
+<img align="right" width="250px" src="https://github.com/lilubit/lilubit/blob/main/images/image1.jpg" />
 
 **I'm [Lu Li (李璐)](https://github.com/lilubit)! I'm a postgraduate student at Beijing Institute of Technology (BIT).**
 
