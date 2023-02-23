@@ -5,9 +5,7 @@
 
 **I'm [Lu Li (李璐)](https://github.com/lilubit)! I'm a postgraduate student at Beijing Institute of Technology (BIT).**
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yaronzz)
 [![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liluccnu@163.com)
-[![Pypi Badge](https://img.shields.io/badge/PyPI-3775a9.svg?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/yaronh/)
 
 ### 🍜 About
 
