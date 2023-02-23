@@ -3,7 +3,7 @@
 
 <img align="right" width="250px" src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif" />
 
-𝗜'𝗺 [Lu Li (李璐)](https://github.com/lilubit)！𝗜'𝗺 𝗮 postgraduate student at Beijing Institute of Technology (BIT).
+**I'm [Lu Li (李璐)](https://github.com/lilubit)! I'm a postgraduate student at Beijing Institute of Technology (BIT).**
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yaronzz)
 [![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liluccnu@163.com)
